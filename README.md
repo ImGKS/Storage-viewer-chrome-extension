@@ -1,2 +1,2 @@
-# isOnline
-npm package to check the user's online/offline status in both browser and Node.js environments.
+# localStorage Chrome Extension
+This extension will help to fetch all the localStorage data and copy the data.
